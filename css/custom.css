@@ -1,0 +1,54 @@
+.img-center {
+	margin:0 auto;
+}
+
+.tekst {
+	padding:120px;
+	font-family:Comic Sans MS, cursive, sans-serif;
+	font-size: 20px; 
+	
+}
+.slika {
+	height:750px;
+	width:550px;
+}
+.podnaslov {
+	font-size:22px;
+	
+}
+h2{
+	
+
+	font-size:35px;
+	
+	
+}
+ul {
+	display:table; 
+	margin:0 auto;
+}
+.tablica {
+	height:280px;
+}
+.table {
+	height:220px;
+}
+.quotes {
+font-size:20px;
+	
+}
+li:hover{
+	background-color:#f8ecec;
+}
+.gif{
+	height:500px;
+	width:600px;
+}
+.footer {
+	background-image: url('slike/kombinacija.jpg');
+	 background-repeat: no-repeat;
+}
+
+.slika{
+	width:1824px;
+}
